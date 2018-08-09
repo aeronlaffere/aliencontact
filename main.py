@@ -1,4 +1,4 @@
-import os, sys, numpy, gameplay
+import os, sys, numpy
 from psychopy import core, event, visual, sound, gui
 
 gui = gui.Dlg()
